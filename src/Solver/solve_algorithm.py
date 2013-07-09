@@ -1,4 +1,5 @@
-from Main.grid import Grid
+from src.Main.grid import Grid
+
 class Solve_Algorithm:
     def __init__(self):
         self.grid=Grid()
